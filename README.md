@@ -2,7 +2,7 @@
 
 
 1. 🐍 Core Python -- Python 3 For Absolute Beginners by Matthew MacDonald 📚
-If you're new to programming and want to learn Python from scratch, this book is a fantastic starting point. It covers the core concepts of Python 3 in a beginner-friendly manner, allowing you to grasp the fundamentals of programming with Python and build a solid foundation.
+If you're new to programming and want to learn Python from scratch, this book is a fantastic starting point. It covers the core concepts of Python 3 in a beginner-friendly manner, allowing you to grasp the fundamentals of programming with Python and build a solid foundation
 
 2. 🐍📊 O'Reilly Python with Data Science Handbook by Jake VanderPlas 📚
 This comprehensive handbook combines Python programming with practical data science techniques. It covers various libraries and tools commonly used in data science, such as NumPy, Pandas, Matplotlib, and scikit-learn. This resource is ideal for those looking to dive into data analysis and machine learning using Python.
