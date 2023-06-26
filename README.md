@@ -25,4 +25,10 @@ This unique book takes a practical approach to learning SQL, the standard langua
 8. 📊📚 Introductory Statistics by Barbara Illowsky 📚
 This introductory textbook provides a solid foundation in statistics for students in various disciplines. It covers essential concepts, descriptive statistics, probability, hypothesis testing, and more. With clear explanations, relevant examples, and interactive activities, this book makes learning statistics accessible and engaging.
 
+9. 📊 Practical Statistics for Data Scientists: This book serves as a comprehensive guide to applying statistical methods and techniques to real-world data analysis. It focuses on practical aspects and provides data scientists with the necessary tools to handle data effectively. 📈📚
+
+10. 📚 An Introduction to Statistical Learning: Published by Springer, this book introduces the fundamentals of statistical learning and machine learning techniques. It provides a solid foundation for data scientists and practitioners interested in understanding the theory and implementation of various statistical models. 🌳🤖
+
+11. 📊📚 Think Stats: Probability and Statistics for Programmers: Written specifically for programmers and individuals with programming backgrounds, this book explores the fundamentals of probability and statistics using Python.
+
 Please note that while I've provided brief previews of these textbooks, it's always a good idea to read reviews and consider your personal learning style before selecting a book.
