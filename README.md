@@ -31,4 +31,4 @@ This introductory textbook provides a solid foundation in statistics for student
 
 11. 📊📚 Think Stats: Probability and Statistics for Programmers: Written specifically for programmers and individuals with programming backgrounds, this book explores the fundamentals of probability and statistics using Python.
 
-Please note that while I've provided brief previews of these textbooks, it's always a good idea to read reviews and consider your personal learning style before selecting a book.
+.........
